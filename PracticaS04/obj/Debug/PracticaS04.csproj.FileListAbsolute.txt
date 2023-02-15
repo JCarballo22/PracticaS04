@@ -1,0 +1,8 @@
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\bin\Debug\PracticaS04.exe.config
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\bin\Debug\PracticaS04.exe
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\bin\Debug\PracticaS04.pdb
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\obj\Debug\PracticaS04.csproj.AssemblyReference.cache
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\obj\Debug\PracticaS04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\obj\Debug\PracticaS04.csproj.CoreCompileInputs.cache
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\obj\Debug\PracticaS04.exe
+C:\Users\Carba\source\repos\PracticaS04\PracticaS04\obj\Debug\PracticaS04.pdb
